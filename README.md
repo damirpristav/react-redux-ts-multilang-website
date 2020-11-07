@@ -1,4 +1,4 @@
-# react-typescript-multi-lang-website-context-api
+# react-redux-ts-multilang-website
 
 [Live Preview](https://apps.damirpristav.com/react-redux-multilang-website/)
 
